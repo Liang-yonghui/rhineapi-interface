@@ -55,6 +55,7 @@ public class NameController {
 //            throw new RuntimeException("无权限");
 //        }
         String result = "POST 用户名字是" + user.getUsername();
+        asd
         return result;
     }
 
